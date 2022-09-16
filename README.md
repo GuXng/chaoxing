@@ -22,7 +22,7 @@
 
 
 
-## 快速使用
+## 快速使用1
 
 
 [无法查看图片？](https://www.clost.net/default/871.html "无法查看图片？")
